@@ -1,4 +1,4 @@
-#include <stdio.h> //201935151 Hwang JeongYeon
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 #include <pthread.h>
